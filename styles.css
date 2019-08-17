@@ -1,0 +1,29 @@
+
+div {
+    background: transparent;
+}
+
+h1 {
+    font-weight: bold;
+    text-shadow: 4px 1px lightgrey;
+}
+
+#box {
+    background: url('img/contemporary_china/contemporary_china.png');
+    height: 50vh;
+    z-index: 10;
+}
+
+#input-palindrome,
+#small-text {
+    font-family: 'Abel', sans-serif;
+}
+
+.main-title,
+#submit-button {
+    font-family: 'Raleway', sans-serif;
+}
+
+#submit-button {
+    letter-spacing: 5px;
+}
